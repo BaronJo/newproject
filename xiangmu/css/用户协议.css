@@ -1,0 +1,157 @@
+#lg_header {
+    position: relative;
+    z-index: 120;
+    min-height: 40px;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+* {
+    outline: 0;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+    font-family: PingFangSC-Regular,PingFang SC;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    background-color: #fff;
+    font-feature-settings: "tnum";
+}
+[role=button], a, area, button, input:not([type=range]), label, select, summary, textarea {
+    touch-action: manipulation;
+}
+a {
+    color: #00b38a;
+    text-decoration: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    transition: color .3s;
+    -webkit-text-decoration-skip: objects;
+}
+a {
+    color: #555;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#lg_tbar .inner .lg_tbar_l .logo {
+    float: left;
+    width: 66px;
+    height: 16px;
+    margin-top: 12px;
+    background-image: url(../img1/img1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#lg_tbar .inner {
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto;
+    background: #32373e;
+    font-size: 14px;
+    cursor: default;
+}
+
+element.style {
+}
+#lg_tbar .inner .lg_tbar_l .logo {
+    float: left;
+    width: 66px;
+    height: 16px;
+    margin-top: 12px;
+    background-image: url(https://lagou-zhaopin-fe.lagou.com/fed/lg-www-fed/image/20210624/1624523613071.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+<style>
+[role=button], a, area, button, input:not([type=range]), label, select, summary, textarea {
+    touch-action: manipulation;
+}
+<style>
+a {
+    color: #00b38a;
+    text-decoration: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    transition: color .3s;
+    -webkit-text-decoration-skip: objects;
+}
+<style>
+[role=button], a, area, button, input:not([type=range]), label, select, summary, textarea {
+    touch-action: manipulation;
+}
+<style>
+a {
+    color: #00b38a;
+    text-decoration: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    transition: color .3s;
+    -webkit-text-decoration-skip: objects;
+}
+<style>
+[role=button], a, area, button, input:not([type=range]), label, select, summary, textarea {
+    touch-action: manipulation;
+}
+<style>
+a {
+    color: #00b38a;
+    text-decoration: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    transition: color .3s;
+    -webkit-text-decoration-skip: objects;
+}
+a {
+    color: #555;
+    background-color: transparent;
+    text-decoration: none;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+* {
+    outline: 0;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#lg_tbar .inner {
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto;
+    background: #32373e;
+    font-size: 14px;
+    cursor: default;
+}
+#lg_tbar {
+    background: #32373e;
+    font-family: "Hiragino Sans GB","Microsoft Yahei",SimSun,Arial,"Helvetica Neue",Helvetica;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
